@@ -1,6 +1,6 @@
 {
   "moduleName": "PunkX",
-  "script_url": "https://raw.githubusercontent.com/DmelScripts/luau/refs/heads/main/UIProject.lua",
+  "script_url": "https://raw.githubusercontent.com/Silent-Caliber/luau/refs/heads/patch-1/UIProject.lua",
   "disc_invite": "https://discord.gg/JxEjAtdgWD",
   "versionName": "Android"
 }
